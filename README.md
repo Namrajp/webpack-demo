@@ -5,10 +5,10 @@ Initial
  ./src/index.js is starting point
 
 
- npm init -y
+ `npm init -y
  npm install -D lodash webpack webpack-cli
  package.json
- {
+ ``{
   "name": "webpack-demo",
   "version": "1.0.0",
   "description": "",
@@ -24,4 +24,4 @@ Initial
     "webpack": "^5.101.0",
     "webpack-cli": "^6.0.1"
   }
-}
+}``
